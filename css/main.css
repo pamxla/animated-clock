@@ -13,13 +13,13 @@ html {
   height: 300px;
   margin: 50px auto;
   position:relative;
-  width: 300 px;
+  width: 300px;
 
   background: transparent url("../images/clock-face.svg") no-repeat center center;
 }
 
 .clock-center {
-  bottom: calc950% - 14px);
+  bottom: calc(50% - 14px);
   left: calc(50% - 14px);
   position: absolute;
   width: 28px;
