@@ -10,10 +10,10 @@ html {
 }
 
 .clock-face {
-  height: 300px;
-  margin: 50px auto;
+  height: 300 px;
+  margin: 50 px auto;
   position: relative;
-  width: 300px;
+  width: 300 px;
 
   background: transparent url("../images/clock-face.svg") no-repeat center center;
 }
